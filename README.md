@@ -4,19 +4,15 @@
 
 ## Transmisor 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| ARDUINO UNO  | NRF24L01  |  
+|---|---|
+|  8 | CSN |  
+|  7 | CE |  
+|  13 | SCK |  
+|  11 | MOSI  |   
+|  12 | MISO  |  
 
-### ARDUINO UNO - NRF24L01
 
-- 8 		CSN
-- 7 		CE
-- 13 		SCK
-- 11 		MOSI
-- 12 		MISO
 
 ## Receptor
 
