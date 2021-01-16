@@ -1,6 +1,8 @@
-# Transmisor - Receptor NRF24L01 Arduino :pe:
+# Transmisor - Receptor NRF24L01 Arduino 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md
+:ghost:
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 ![alt text](https://aniavestidos.com/olo.jpeg)
 
