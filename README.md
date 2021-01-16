@@ -2,12 +2,12 @@
 ![alt text](https://aniavestidos.com/nrf.jpeg)
 
 
-*Transmisor - Receptor 
+* Transmisor - Receptor 
 
 
-***Transmisor Arduino
+*** Transmisor Arduino
 
-**ARDUINO  NRF24L01
+** ARDUINO  NRF24L01
 
 - 8 		CSN
 - 7 		CE
@@ -16,15 +16,14 @@
 - 12 		MISO
 
 
-**Receptor NODEMCU
+** Receptor NODEMCU
 
--D2       CSN
--D4       CE
--3.3      V+
--GND      GND
--D7       MOSI 
--D6       MISO
--D5       CSK o SCK 
+- D2       CSN
+- D4       CE
+- 3.3      V+
+- GND      GND
+- D7       MOSI 
+- D6       MISO
+- D5       CSK o SCK 
 
-
---Si quiere invertir los roles de transmisor y receptor seria solo identificar los pines 
+@joel : Si no les funciona crear una issue porfavor :shipit: 
