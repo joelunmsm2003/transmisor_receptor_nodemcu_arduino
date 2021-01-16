@@ -2,13 +2,9 @@
 
 ![alt text](https://aniavestidos.com/olo.jpeg)
 
+## Transmisor Arduino
 
-
-
-
-*** Transmisor Arduino
-
-** ARDUINO  NRF24L01
+### ARDUINO  NRF24L01
 
 - 8 		CSN
 - 7 		CE
@@ -17,7 +13,7 @@
 - 12 		MISO
 
 
-** Receptor NODEMCU
+### Receptor NODEMCU
 
 - D2       CSN
 - D4       CE
