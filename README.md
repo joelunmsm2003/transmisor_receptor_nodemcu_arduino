@@ -2,8 +2,6 @@
 
 :ghost:
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-
 ![alt text](https://aniavestidos.com/olo.jpeg)
 
 ## Transmisor Arduino
