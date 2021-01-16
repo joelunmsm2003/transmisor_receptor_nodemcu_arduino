@@ -25,4 +25,4 @@
 - D6       MISO
 - D5       CSK o SCK 
 
-@joel : Si no les funciona crear una issue porfavor :shipit: 
+@joelunmsm@gmail.com +1 : Si no les funciona crear una issue porfavor :shipit: 
