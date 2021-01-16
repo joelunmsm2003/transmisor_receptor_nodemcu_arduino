@@ -4,9 +4,9 @@
 
 ![alt text](https://aniavestidos.com/olo.jpeg)
 
-## Transmisor Arduino
+## Transmisor 
 
-### ARDUINO  NRF24L01
+### ARDUINO UNO - NRF24L01
 
 - 8 		CSN
 - 7 		CE
@@ -14,8 +14,9 @@
 - 11 		MOSI
 - 12 		MISO
 
+## Receptor
 
-### Receptor NODEMCU
+###  NODEMCU - NRF24L01
 
 - D2       CSN
 - D4       CE
@@ -25,4 +26,4 @@
 - D6       MISO
 - D5       CSK o SCK 
 
-:+1: Si no les funciona crear una issue porfavor :shipit: 
+:+1: Si no les funciona crear una issue  :shipit: 
