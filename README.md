@@ -1,10 +1,14 @@
 # Transmisor - Receptor NRF24L01 Arduino 
 
-:ghost:
-
 ![alt text](https://aniavestidos.com/olo.jpeg)
 
 ## Transmisor 
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ### ARDUINO UNO - NRF24L01
 
