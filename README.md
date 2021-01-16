@@ -2,7 +2,7 @@
 
 ![alt text](https://aniavestidos.com/olo.jpeg)
 
-## Transmisor 
+### Transmisor 
 
 | ARDUINO UNO  | NRF24L01  |  
 |---|---|
@@ -14,16 +14,17 @@
 
 
 
-## Receptor
+### Receptor
 
-###  NODEMCU - NRF24L01
+| NODEMCU  | NRF24L01  |  
+|---|---|
+|  D2 | CSN |  
+|  D4 | CE |  
+|  3.3 | V+ |  
+|  GND | GND  |   
+|  D7 | MOSI  | 
+|  D6 | MISO  |  
+|  D5 | CSK o SCK  | 
 
-- D2       CSN
-- D4       CE
-- 3.3      V+
-- GND      GND
-- D7       MOSI 
-- D6       MISO
-- D5       CSK o SCK 
 
 :+1: Si no les funciona crear una issue  :shipit: 
