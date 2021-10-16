@@ -1,6 +1,6 @@
 //NODEMCU -NRF24L01 
-//D2       CSN
-//D4       CE
+//D4       CSN
+//D2       CE
 //3.3      V+
 //GND      GND
 //D7       MOSI 
